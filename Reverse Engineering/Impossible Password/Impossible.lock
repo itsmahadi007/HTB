@@ -1,0 +1,9 @@
+#Ghidra Lock File
+#Wed Dec 30 11:41:49 BDT 2020
+OS\ Name=Linux
+OS\ Version=5.4.0-58-generic
+Username=ghost
+Hostname=Ghost
+<META>\ Supports\ File\ Channel\ Locking=Channel Lock
+OS\ Architecture=amd64
+Timestamp=12/30/20, 11\:41 AM
