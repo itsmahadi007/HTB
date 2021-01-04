@@ -1,0 +1,13 @@
+We can analysis any elf code by r2 or radare2.
+
+to open a file in r2 type # r2 ./<file>
+
+analysis full code to radare2 by run # aaa //command
+to enter read-write mode run # ood // command
+s main // "s main" which takes us to the main function address.
+#pdf // disassemble function
+#pdfs // disassemble function summary
+#db // to add break point
+#dc // to run or debug the file
+#drr // to see the memory 
+
